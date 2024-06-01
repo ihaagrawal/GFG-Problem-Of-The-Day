@@ -1,5 +1,5 @@
-Odd Even Problem (EASY)
-https://www.geeksforgeeks.org/problems/help-nobita0532/
+// Odd Even Problem (EASY)
+// https://www.geeksforgeeks.org/problems/help-nobita0532/
 
 class Solution {
   public:
