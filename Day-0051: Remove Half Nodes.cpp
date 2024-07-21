@@ -1,7 +1,7 @@
 // Remove Half Nodes (EASY)
 // https://www.geeksforgeeks.org/problems/remove-half-nodes/1
 
-
+/*
 Node is as follows:
 struct Node {
     int data;
